@@ -3,9 +3,18 @@
     "displayName": "npp-theme",
     "description": "npp-theme",
     "version": "0.0.1",
+    "author": {
+        "name": "gaoyi",
+        "email": "gaoyia@qq.com"
+    },
     "engines": {
         "vscode": "^1.51.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gaoyia/npp-theme.git"
+    },
+    "icon": "images/icon/logo_250x250.png",
     "categories": [
         "Themes"
     ],
