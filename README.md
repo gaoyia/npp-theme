@@ -1,13 +1,17 @@
 # README
-## This is the README for your extension "npp-color"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## vscode 主题插件 "npp-color"
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+预览
+
+![Image 1](https://raw.githubusercontent.com/gaoyia/npp-theme/master/images/1.png)
+![Image 1](https://raw.githubusercontent.com/gaoyia/npp-theme/master/images/2.png)
+
+### 主题开发相关文档
+
+
+* [主题开发vscode官方文档](https://code.visualstudio.com/api/references/theme-color)
+* [视频教程](https://www.acfun.cn/v/ac18043780)
+* [youtube视频教程](https://www.youtube.com/watch?v=QCqWzb-9Sy8)
 
 **Enjoy!**
