@@ -1,0 +1,26 @@
+{
+    "name": "npp-theme",
+    "displayName": "npp-theme",
+    "description": "npp-theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "npp-theme-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/npp-dark.json"
+            },
+            {
+                "label": "npp-theme-light",
+                "uiTheme": "vs",
+                "path": "./themes/npp-light.json"
+            }
+        ]
+    }
+}
